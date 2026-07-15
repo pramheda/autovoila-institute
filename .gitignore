@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+.DS_Store
+workspace/artifacts/*
+!workspace/artifacts/.gitkeep
+workspace/exports/*
+!workspace/exports/.gitkeep
+vendor/autovoila/research-philosophy.md
